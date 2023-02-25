@@ -4,6 +4,8 @@ This is a Tableau public simple superstore analytical dashboard project
 
 ![Dashboard](Executive%20Overview.png?raw=true "Simple Store")
 
+https://public.tableau.com/app/profile/dhiraj.patra/viz/SimpleSuperstore/ExecutiveOverview
+
 ### How to start
 
 Download the tableau public from https://www.tableau.com/
